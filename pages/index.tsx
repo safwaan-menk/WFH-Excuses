@@ -66,7 +66,7 @@ export default function Home() {
         <h1 className={styles.title}>Hey, boss</h1>
 
         <p className={styles.description}>
-          Can't come in today because
+          Can&apos;t come in today because
           <code className={styles.code}> ______________________</code>
         </p>
 
